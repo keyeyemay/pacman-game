@@ -151,4 +151,4 @@ void Pac::Draw(){
 			CurrDeathPacFrame = 0;
 		}
 	}
-}
+} 
